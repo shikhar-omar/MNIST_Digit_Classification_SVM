@@ -16,5 +16,5 @@ feature map and then apply a linear classifier to that,  but that would do even 
 mapping data into a R<sup>N</sup> dimensional space(N being the number of the samples), space spanned by all the data points. So now all we want is to have mapping in a reasonably sized space
 so that we can apply a linear filter to it. As RBF kernel works well, it will be better to compute the mapping there and then use just
 a subset of that mapping and keeping the number of the sample same.This results in a approximation that is independent of the size of the dataset
-and this is what **Nystroem approximation method** is.This technique really speeds up the process as the training is done on a linear classifier but comes at a cost of little dip in the accuracy.
+and this is what **Nystroem approximation method** does.This technique really speeds up the process as the training is done on a linear classifier but comes at a cost of little dip in the accuracy.
 
