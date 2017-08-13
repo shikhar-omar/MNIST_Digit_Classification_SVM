@@ -1,6 +1,6 @@
 # **MNIST_Digit_Classification_SVM**
 
-#### **Classifying digits in the MNIST dataset with SVM classifiers using kernel-trick(RBF kernel) and kernel approximation(Nystroem approximation method**
+#### **Classifying digits in the MNIST dataset with SVM classifiers using kernel-trick(RBF kernel) and kernel approximation(Nystroem approximation method)**
 
 
 Support vector machines are supervised machine learning algorithms that are used for classification and regression analysis.
